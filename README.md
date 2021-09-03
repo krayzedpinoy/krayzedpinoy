@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I am self-taught and always learning. So this will change often.
+
+As of this very moment I am working on my public keybase website for others to go to in regards to their security of things. I'm not a professional, but I'm seeking to close the digital divide amongst my peers.
+
+UNFINISHED 
 <!--
 **krayzedpinoy/krayzedpinoy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
